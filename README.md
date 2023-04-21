@@ -23,6 +23,10 @@
 
 可加 OpenMMLab 小助手喵喵的微信 openmmlabwx 备注 【贡献者教程】加入 MMSIG 群。
 
-## OpenMMLab 社区公约
+## OpenMMLab 社区理念
 
-
+- 平等
+- 和谐
+- 友善
+- 互助
+- 共享
